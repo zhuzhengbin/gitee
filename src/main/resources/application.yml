@@ -8,3 +8,6 @@ spring:
 logging:
   level:
     com.zhuzb.gitee: debug
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml

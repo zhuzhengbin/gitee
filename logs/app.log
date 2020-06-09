@@ -1,0 +1,15 @@
+00:36:11.099 [main] INFO  com.zhuzb.gitee.GiteeApplication - Starting GiteeApplication on DESKTOP-APV9JPQ with PID 4932 (C:\app\IDEA\projects\gitee\target\classes started by zhuzhengbin in C:\app\IDEA\projects\gitee)
+00:36:11.115 [main] DEBUG com.zhuzb.gitee.GiteeApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+00:36:11.117 [main] INFO  com.zhuzb.gitee.GiteeApplication - No active profile set, falling back to default profiles: default
+00:36:13.457 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+00:36:13.458 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+00:36:13.458 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+00:36:13.637 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+00:36:14.884 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+00:36:15.125 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+00:36:15.238 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+00:36:15.320 [main] INFO  com.zhuzb.gitee.GiteeApplication - Started GiteeApplication in 5.228 seconds (JVM running for 10.846)
+00:36:21.683 [http-nio-8080-exec-1] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+00:36:24.696 [http-nio-8080-exec-1] DEBUG com.zhuzb.gitee.mapper.LogMapper.logList - ==>  Preparing: select * from APP_LOG_DEFINE 
+00:36:24.733 [http-nio-8080-exec-1] DEBUG com.zhuzb.gitee.mapper.LogMapper.logList - ==> Parameters: 
+00:36:24.766 [http-nio-8080-exec-1] DEBUG com.zhuzb.gitee.mapper.LogMapper.logList - <==      Total: 1
