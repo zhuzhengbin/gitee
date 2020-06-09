@@ -8,6 +8,7 @@
         <version>2.3.0.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
     <groupId>com.zhuzb</groupId>
     <artifactId>gitee</artifactId>
     <version>0.0.1-SNAPSHOT</version>
@@ -19,7 +20,7 @@
     </properties>
 
     <dependencies>
-
+        <!--剔除框架自带的logging依赖，避免与之后引入的log4j2依赖冲突-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>

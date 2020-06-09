@@ -1,7 +1,0 @@
-22:35:02.334 [http-nio-8080-exec-1] ERROR com.zhuzb.gitee.service.impl.ServiceImpl - 测试error日志
-22:35:58.741 [http-nio-8080-exec-3] ERROR com.zhuzb.gitee.service.impl.ServiceImpl - 测试error日志
-22:36:11.839 [http-nio-8080-exec-5] ERROR com.zhuzb.gitee.service.impl.ServiceImpl - 测试error日志
-22:36:58.253 [http-nio-8080-exec-7] ERROR com.zhuzb.gitee.service.impl.ServiceImpl - 测试error日志
-22:46:56.115 [http-nio-8080-exec-2] ERROR com.zhuzb.gitee.service.impl.ServiceImpl - 重新测试error日志的记录
-22:47:36.193 [http-nio-8080-exec-4] ERROR com.zhuzb.gitee.service.impl.ServiceImpl - 重新测试error日志的记录
-22:48:33.505 [http-nio-8080-exec-1] ERROR com.zhuzb.gitee.service.impl.ServiceImpl - 重新测试error日志的记录
