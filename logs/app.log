@@ -1,13 +1,20 @@
-07:01:24.451 [main] INFO  com.zhuzb.gitee.GiteeApplication - Starting GiteeApplication on DESKTOP-APV9JPQ with PID 1080 (C:\app\IDEA\projects\gitee\target\classes started by zhuzhengbin in C:\app\IDEA\projects\gitee)
-07:01:24.466 [main] DEBUG com.zhuzb.gitee.GiteeApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
-07:01:24.469 [main] INFO  com.zhuzb.gitee.GiteeApplication - No active profile set, falling back to default profiles: default
-07:01:26.955 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
-07:01:26.955 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
-07:01:26.955 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
-07:01:27.176 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
-07:01:28.513 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
-07:01:28.737 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
-07:01:28.864 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
-07:01:28.954 [main] INFO  com.zhuzb.gitee.GiteeApplication - Started GiteeApplication in 5.489 seconds (JVM running for 11.447)
-07:02:02.414 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
-07:02:02.424 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+22:08:51.634 [main] INFO  com.zhuzb.gitee.GiteeApplication - Starting GiteeApplication on DESKTOP-APV9JPQ with PID 6444 (C:\app\IDEA\projects\gitee\target\classes started by zhuzhengbin in C:\app\IDEA\projects\gitee)
+22:08:51.685 [main] DEBUG com.zhuzb.gitee.GiteeApplication - Running with Spring Boot v2.3.0.RELEASE, Spring v5.2.6.RELEASE
+22:08:51.688 [main] INFO  com.zhuzb.gitee.GiteeApplication - No active profile set, falling back to default profiles: default
+22:08:54.322 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+22:08:54.323 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+22:08:54.323 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
+22:08:54.958 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+22:08:55.939 [main] INFO  springfox.documentation.spring.web.PropertySourcedRequestMappingHandlerMapping - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+22:08:56.412 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+22:08:56.678 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+22:08:56.790 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+22:08:56.846 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Context refreshed
+22:08:56.896 [main] INFO  springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
+22:08:56.952 [main] INFO  springfox.documentation.spring.web.scanners.ApiListingReferenceScanner - Scanning for api listing references
+22:08:56.974 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+22:08:56.984 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+22:08:56.984 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Pausing ProtocolHandler ["http-nio-8080"]
+22:08:57.589 [main] INFO  org.apache.catalina.core.StandardService - Stopping service [Tomcat]
+22:08:57.594 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Stopping ProtocolHandler ["http-nio-8080"]
+22:08:57.602 [main] INFO  org.apache.coyote.http11.Http11NioProtocol - Destroying ProtocolHandler ["http-nio-8080"]
